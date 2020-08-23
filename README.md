@@ -1,0 +1,2 @@
+# CommandOnJoinPlugin
+Minecraft CommandOnJoin Plugin
