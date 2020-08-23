@@ -1,0 +1,9 @@
+name: CommandOnJoin
+author: rynder
+main: me.rynder.commandonjoin.Main
+description: Plugin that allows you to set commands to be run as a player joins
+version: 1.0.0
+api-version: 1.16
+
+
+  

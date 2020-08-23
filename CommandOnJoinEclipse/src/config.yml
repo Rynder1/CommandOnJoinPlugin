@@ -1,0 +1,8 @@
+#commandOnJoin
+
+#commands are run as the player who joins
+#list them below like - command 
+#use %player% for where the players name would go
+commandList:
+ - say hey
+ - say hi %player%
